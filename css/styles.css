@@ -1,0 +1,204 @@
+#title {
+    text-align: center;
+    background-color: aliceblue;
+    padding-bottom: 2px;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.nav-item {
+    padding: 0 16px;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-family: "Darker Grotesque", sans-serif;
+}
+
+.heading {
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 7rem;
+    font-weight: 50;
+}
+
+.more {
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.light-para {
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 2rem;
+}
+
+/* button */
+.btn {
+    padding-left: 10px;
+    margin-top: 4px;
+}
+
+.btn-1 {
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #000000;
+    background-color: #a6dea6;
+    padding: 10px 27px;
+    border: solid #a6dea6 1px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1000ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: auto;
+}
+
+.btn-1:hover {
+    transition: 1000ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background-color: #fff;
+    color: #000000;
+    border: solid 1px #93c093;
+}
+
+.start-title {
+    margin: 10% auto 10%;
+}
+
+#features {
+    text-align: center;
+    margin: auto 28% 8%;
+}
+
+/* container 1 */
+
+#container-m {
+    margin-top: 10%;
+}
+
+.xx {
+    width: 180%;
+    text-align: center;
+    margin-bottom: 15%;
+}
+.card-title {
+    font-size: 1.5rem;
+}
+
+/* .card-body {
+    padding-left: 8px;
+} */
+
+#pricing {
+    margin-top: 10%;
+}
+
+.pricing-card-title {
+    text-align: left;
+    margin-bottom: 75px;
+}
+
+.align-p {
+    text-align: left;
+}
+
+.heading-c {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.fs-5 {
+    margin-bottom: 0;
+}
+
+.edit-txt {
+    font-family: "Kanit", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#container-sm {
+    padding-top: 5%;
+    margin-top: 10%;
+    background-color: aliceblue;
+}
+
+#testimonials {
+    margin-top: 20%;
+}
+
+.status-img {
+    margin-top: 3%;
+    width: 30%;
+}
+
+.row {
+    margin: 0;
+}
+.col-lg-6 {
+    padding: 0;
+}
+
+.fix {
+    margin-top: 2%;
+    padding-left: 70px;
+}
+
+.cc {
+    margin-bottom: 20px;
+}
+
+.meet {
+    font-size: 2.2rem;
+}
+
+.meet2 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.b-fix {
+    margin-top: 45%;
+}
+
+#container {
+    width: 70%;
+}
+
+#cta {
+    background-color: aliceblue;
+    margin-top: 10%;
+    /* margin-bottom: 8%; */
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 8%;
+}
+
+.b-text {
+    font-family: "Darker Grotesque", sans-serif;
+    font-size: 2rem;
+    margin: 3% auto;
+}
+
+.end {
+    margin-top: 5%;
+}
